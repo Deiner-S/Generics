@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3edb3ca-fb60-4b51-adb8-beea68e4231b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo17Tarefa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AudiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BMWFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaCarros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3edb3ca-fb60-4b51-adb8-beea68e4231b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +34,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -80,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724283653091</updated>
-      <workItem from="1724283654151" duration="2040000" />
+      <workItem from="1724283654151" duration="2381000" />
     </task>
     <servers />
   </component>
